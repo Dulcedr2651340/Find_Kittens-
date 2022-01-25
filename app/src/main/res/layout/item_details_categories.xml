@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    app:cardCornerRadius="15dp"
+    android:elevation="5dp"
+
+    android:layout_marginTop="16dp"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp"
+    android:layout_height="90dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="84dp">
+        <com.android.volley.toolbox.NetworkImageView
+            android:id="@+id/image_categories"
+            android:layout_width="102dp"
+            android:layout_height="84dp"
+            android:adjustViewBounds="true"
+            app:srcCompat="@drawable/cat20" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/image_categories"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/location_categories"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cat"
+                android:textColor="#E91E63"
+                android:textSize="12sp"
+                />
+            <TextView
+                android:id="@+id/name_cat_categories"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="Cute kittens"
+                android:textColor="#091020"
+                android:textSize="15sp"
+                />
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp">
+
+                <TextView
+                    android:id="@+id/saved_categories"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_toRightOf="@+id/imageView4"
+                    android:text="4.5"
+                    android:textColor="#091020" />
+                <ImageView
+                    android:layout_marginTop="2dp"
+                    android:id="@+id/imageView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/ic_heart"
+                    />
+            </RelativeLayout>
+        </LinearLayout>
+        <TextView
+            android:layout_marginTop="60dp"
+            android:id="@+id/view_categories"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="8dp"
+            android:text="5k"
+            android:textColor="#FF6813"
+            android:layout_alignParentEnd="true"
+            />
+        <ImageView
+            android:layout_marginTop="63dp"
+            android:layout_marginRight="6dp"
+            android:layout_toLeftOf="@+id/view_categories"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:src="@drawable/eye"
+            app:tint="#9C27B0" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

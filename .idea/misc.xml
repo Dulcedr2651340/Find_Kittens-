@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.20520833333333333" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/drawable-v24/ic_account.xml" value="0.2609375" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/drawable-v24/ic_bx_share_alt_1.xml" value="0.2609375" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/drawable-v24/ic_heart.xml" value="0.2609375" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/activity_camara.xml" value="0.25" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/activity_lits.xml" value="0.240625" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/activity_main.xml" value="0.240625" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/fragment_camara.xml" value="0.22" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/fragment_lits.xml" value="0.25" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/fragment_lits_breeds.xml" value="0.25" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/fragment_menu_cat.xml" value="0.21822916666666667" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/fragment_menucat.xml" value="0.21822916666666667" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/item_details_breeds.xml" value="0.21770833333333334" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/item_details_cat_miau.xml" value="0.240625" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/item_details_cat_popular.xml" value="0.33" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/layout/item_details_categories.xml" value="0.22" />
+        <entry key="..\:/Escritorio/AppMovil/AppMovil-PC2-main/app/src/main/res/menu/bottom_menu.xml" value="0.240625" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_account.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_bx_share_alt_1.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_heart.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_keyboard_arrow_left_black_24dp.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_menu_black_24dp.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_notification.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_rectangle_344.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/ic_short.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/layout_bg.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable-v24/search_bg.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_lits.xml" value="0.25" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/item2_details_cat.xml" value="0.33" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/item_details_cat.xml" value="0.2729044834307992" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/item_details_cat_miau.xml" value="0.33" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/item_details_cat_popular.xml" value="0.5" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/bottom_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Dulce/AndroidStudioProjects/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/USUARIO/Desktop/AppMovil-PC2-main/app/src/main/res/layout/activity_menu.xml" value="0.15" />
+        <entry key="..\:/Users/USUARIO/Desktop/AppMovil-PC2-main/app/src/main/res/layout/fragment_menu_cat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USUARIO/Desktop/AppMovil-PC2-main/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/Users/USUARIO/Desktop/Nueva carpeta/MyApplication2/app/src/main/res/layout/activity_lits.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/USUARIO/Desktop/Nueva carpeta/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/USUARIO/Desktop/Nueva carpeta/MyApplication2/app/src/main/res/layout/item2_details_cat.xml" value="0.33" />
+        <entry key="..\:/Users/USUARIO/Desktop/Nueva carpeta/MyApplication2/app/src/main/res/layout/item_details_cat.xml" value="0.25" />
+        <entry key="..\:/Users/USUARIO/Desktop/Nueva carpeta/MyApplication2/app/src/main/res/menu/bottom_menu.xml" value="0.11458333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
